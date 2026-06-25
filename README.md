@@ -1,7 +1,7 @@
-Project: Expense Tracker (CLI)
+1. Project: Expense Tracker (CLI)
 
-Features:
+2.Features:
 
-Add Expense
-View Expenses
-Calculate Total Expenses
+3.Add Expense
+4.View Expenses
+5.Calculate Total Expenses
